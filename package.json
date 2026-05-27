@@ -1,0 +1,29 @@
+{
+  "name": "GSTCalculator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-native": "0.76.5",
+    "react-native-linear-gradient": "^2.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.0",
+    "@babel/preset-env": "^7.25.0",
+    "@babel/runtime": "^7.25.0",
+    "@react-native/babel-preset": "0.76.5",
+    "@react-native/eslint-config": "0.76.5",
+    "@react-native/metro-config": "0.76.5",
+    "@react-native/typescript-config": "0.76.5",
+    "eslint": "^8.57.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
